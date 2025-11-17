@@ -5,4 +5,5 @@ console.log(typeof "hello");
 console.log(typeof null);
 
 
+console.log(typeof "hello");
 console.log(typeof undefined);
